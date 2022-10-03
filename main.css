@@ -116,57 +116,6 @@ form {
 
 
 
-.gamelist{
-    margin-left: 50px;
-    margin-top: 50px;
-    border: #3A9BDC solid 2px;
-    border-radius: 20px;
-    color: #fff;
-
-}
-
-
-
-
-.gamelist ul{
-    list-style: none;
-}
-
-.gamelist li{
-    font-size: 25px;
-    margin-left: 1%;
-
-}
-
-.gamelist d{
-    font-size: 25px;
-    margin-left: 150px;
-}
-.gamelist e{
-    font-size: 25px;
-    margin-left: 172px;
-}
-
-.gamelist f{
-    font-size: 25px;
-    margin-left: 172px;
-}
-
-.gamelist g{
-    font-size: 25px;
-    margin-left: 162.5px;
-}
-
-.gamelist h{
-    font-size: 25px;
-    margin-left: 185.5px;
-}
-
-.gamelist i{
-    font-size: 25px;
-    margin-left: 160.5px;
-}
-
 
 
 
