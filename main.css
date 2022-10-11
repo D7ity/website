@@ -47,9 +47,8 @@
 }
 
 h1{
-    text-align: left;
+    text-align: center;
     color: white;
-    margin-left: 180px;
     margin-top: 200px;
     font-size: 60px;
     
@@ -57,9 +56,8 @@ h1{
 }
 
 h3{
-    text-align: left;
+    text-align: center;
     color: white;
-    margin-left: 125px;
     margin-top: 50px;
     font-size: 50px;
     
@@ -72,13 +70,8 @@ b {
     color: #3A9BDC;
 }
 
-c {
-    float:right;
-    margin-top: -350px;
-    margin-right: 80;
-    width: 630px;
-    height: 630px;
-}
+
+
 
 
 .btn {
@@ -104,15 +97,16 @@ c {
 }
 
 form {
-    text-align: left;
+    text-align: center;
     float: left;
     cursor: pointer;
     margin-top: 50px;
-    margin-left: 200px;
-    margin-right: -197px;
-    
-}
+    margin-right: -535px;
+    margin-left: 540px;
+  
 
+
+}
 
 
 
