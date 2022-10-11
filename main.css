@@ -16,7 +16,7 @@
 .top{
     min-height: 100vh;
     width: 100%;
-    background: linear-gradient(180deg,#010108,#111213);
+    background: linear-gradient(180deg,black,#121038);
 }
 
 
@@ -29,7 +29,7 @@
 }
 
 .navbar a{
-    color: #f2f2f2;
+    color: white;
     text-decoration: none;
     display: inline-flex;
     padding: 14px 16px;
@@ -44,6 +44,7 @@
 
 .navbar a:hover{
     transform: translateY(-5px);
+    color: #210C5A
 }
 
 h1{
@@ -66,7 +67,7 @@ h3{
 }
 
 b {
-    color: #3A9BDC;
+    color: #24096E;
 }
 
 
@@ -75,7 +76,7 @@ b {
 
 .btn {
   border: 2px solid black;
-  background-color: black;
+  background-color: #210C5A;
   color: black;
   padding: 14px 28px;
   font-size: 16px;
@@ -86,13 +87,15 @@ b {
 
 /* Green */
 .success {
-  border-color: white;
+  border-color: black;
   color: white;
 }
 
 .success:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: #210C5A;
+  transform: scale(1.05);
+
 }
 
 form {
@@ -106,6 +109,12 @@ form {
 
 
 }
+
+
+
+
+
+
 
 
 
